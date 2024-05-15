@@ -13,5 +13,9 @@
   [Results and Findings](results-and-findings) <br> <br>
   [Recommendations](recommendations) <br> <br>
 
-  
+
+# Project Overview
+The aim of this HR employee data analysis project is to provide insight on the emloyee attrition.
+
+__About the Company:__
   
