@@ -53,21 +53,23 @@ EDA involves exploring the HR employee data in order to answer some key qustion 
      - what age group has the most attrition count ? <br> <br>
      - which department has the highest attrition count ? <br> <br>
 
-## Result/Finding : my result and finding are summarized as follows :
+## Result/Finding : my result and finding are summarized as follows :<br> <br>
   1.  the top 2 educational fields by attrition are : <br> <br>
-     - life science : with a total of 89 attrition count out of the 606 employee count 
-     - Medical : with a total of 63 attrition count out of the 464 employee count
+     - life science : with a total of 89 attrition count 38 females and 51 males out of the 606 employee count with a percentage of 14.6%,
+       life science currently has a total of 517 active employees.<br> <br> 
+     - Medical : with a total of 63 attrition count 44 males and 19 females out of the 464 employee count with a percentage of 13.58%,
+       Medical currently has a total of 401 active emoloyees.
 
-  2.  the educational field with the lowest attrition :
-      - HR : with a total 7 attrition count out of the 27 employee count
+  3.  the educational field with the lowest attrition :
+      - HR : with a total 7 attrition count, 3 females and 4 males out of the 27 employee count with a percentage of 25.93%, Hr currently has a total of 20 active employee
 
-  3. the educational field with the highest attrition rate :
+  4. the educational field with the highest attrition rate :
       - HR by 25.93 %
       - Technical 24.24%
 
-  4. gender : with the highest Attrition count (Male) by 150 count
+  5. gender : with the highest Attrition count (Male) by 150 count
 
-  5. the department with the highest Attrition count : R & D Deaprtment by 133 count
+  6. the department with the highest Attrition count : R & D Deaprtment by 133 count
 
 ## Recomendation : 
    1. the management should get a feedback from the department that experience attrition and narrow down a reason to gain deeper insight
