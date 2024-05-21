@@ -1,6 +1,7 @@
   # Attrition_Insight_On_HR_Employee_Data
-  this is a project that analyzed the attrition insight on the HR employee data, the employee's data over the years was used for this anaysis.
-
+   
+   this is a project that analyzed the attrition insight on the HR employee data, the employee's data over the years was used for this anaysis.
+                          
   ## Table of Content
   [Project Overview](project_overview)  <br> <br>
   [Data Source](data-source) <br> <br> 
@@ -15,8 +16,7 @@
 
 
 ## Project Overview
-The aim of this HR employee data analysis project is to provide insight on the emloyee attrition.
-
+this is a project that analyzed the attrition insight on the HR employee data, the employee's data over the years was used for this anaysis.
 __About the Company:__ this is medical device/equipement company that operate on sales business model and they sell a wide range of medical equipment/device, such as syringes, catheter,hip prothesis, pacemaker,ultrasound, they also sell equipment like Hemodialysis machine,Anethesia Machine.
 
 The HR department is responsible for the monitoring and managing various aspects of the employee data to ensure the organisation maintains a healthy workforce.
@@ -55,7 +55,7 @@ HR Employee Data : this is the primary dataset used for this data analysis proje
   - which department has the highest attrition count ? <br> <br>
 
 ## Result/Finding : my result and finding are summarized as follows :
- 1 .     the top 2 educational fields by attrition are :  <br> <br>
+ 1 .    the top 2 educational fields by attrition are :  <br> <br>
       - life science : with a total of 89 attrition count 38 females and 51 males out of the 606 employee count with a percentage of 14.6%,
         life science currently has a total of 517 active employees.  <br> <br>
       - Medical : with a total of 63 attrition count 44 males and 19 females out of the 464 employee count with a percentage of 13.58%,
