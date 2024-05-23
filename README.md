@@ -24,7 +24,7 @@ However there is a need to gain insight on the data by tracking and analyzing th
 
 the goal is to identify this Attrition aspect which are gender, Dept_wise,employee_by_age,job rating, Educational Field. this enaables the company to make sustainable data driven-decision and to have a better understanding of the overall employee performance. 
 
-<img width="958" alt="Capture" src="https://github.com/Munachi96/Attrition_Insight_On_HR_Employee_Data/assets/144247179/bc381e3b-dd07-4cf6-9eed-23b1873ba316"> <br> <br>
+<img width="951" alt="Capture" src="https://github.com/Munachi96/Attrition_Insight_On_HR_Employee_Data/assets/144247179/831b486b-0d11-49b5-9466-8b05be92fbc1">  <br> <br>
 
 
 ##  Data Source:
