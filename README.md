@@ -15,9 +15,9 @@
 
 
 ## Project Overview
-the HR employee data analysis project project aim to provide insight based on the employee attrition.
+This HR employee data analysis project project aim to provide insight based on the employee attrition.
 
-__About the Company:__ this is medical device/equipement company that operate on sales business model and they sell a wide range of medical equipment/device, such as syringes, catheter,hip prothesis, pacemaker,ultrasound, they also sell equipment like Hemodialysis machine,Anethesia Machine.
+__About the Company:__ this is a medical device/equipement company that operate on sales business model and they sell a wide range of medical equipment/device, such as syringes, catheter,hip prothesis, pacemaker,ultrasound, they also sell equipment like Hemodialysis machine,Anethesia Machine.
 
 The HR department is responsible for the monitoring and managing various aspects of the employee data to ensure the organisation maintains a healthy workforce.
 However there is a need to gain insight on the data by tracking and analyzing the HR metrics to get clear performance and also implement KPI'S to address the following, Employee Count,Attrition Count,Attrition rate, Active employee,Average age.
