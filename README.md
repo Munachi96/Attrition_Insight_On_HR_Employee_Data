@@ -1,4 +1,4 @@
-  # Attrition_Insight_On_HR_Employee_Data
+  ## Attrition_Insight_On_HR_Employee_Data
   this is a project that analyzed the attrition insight on the HR employee data, the employee's data over the years was used for this anaysis.
                           
   ## Table of Content
@@ -31,7 +31,7 @@ the goal is to identify this Attrition aspect which are gender, Dept_wise,employ
 HR Employee Data : this is the primary dataset used for this data analysis project. it contains detailed information about each employee in the company or previous employee. this information was extracted from the company's data in an excel format.
 
 ##  Data Analysis Tools Used:
-   -   Power BI
+   -   Power BI <br> <br>
    -   data modelling <br> <br>
    -   data Analysis <br> <br>
    -   Data Visualization and creating an interactive report <br> <br>
